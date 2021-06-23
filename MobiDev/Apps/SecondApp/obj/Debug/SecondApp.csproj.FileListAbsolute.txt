@@ -1,0 +1,14 @@
+D:\khai\MobiDev\App1\SecondApp\bin\Debug\SecondApp.exe.config
+D:\khai\MobiDev\App1\SecondApp\bin\Debug\SecondApp.exe
+D:\khai\MobiDev\App1\SecondApp\bin\Debug\SecondApp.pdb
+D:\khai\MobiDev\App1\SecondApp\obj\Debug\SecondApp.csprojAssemblyReference.cache
+D:\khai\MobiDev\App1\SecondApp\obj\Debug\SecondApp.csproj.CoreCompileInputs.cache
+D:\khai\MobiDev\App1\SecondApp\obj\Debug\SecondApp.exe
+D:\khai\MobiDev\App1\SecondApp\obj\Debug\SecondApp.pdb
+D:\khai\MobiDev\Apps\SecondApp\bin\Debug\SecondApp.exe.config
+D:\khai\MobiDev\Apps\SecondApp\bin\Debug\SecondApp.exe
+D:\khai\MobiDev\Apps\SecondApp\bin\Debug\SecondApp.pdb
+D:\khai\MobiDev\Apps\SecondApp\obj\Debug\SecondApp.csprojAssemblyReference.cache
+D:\khai\MobiDev\Apps\SecondApp\obj\Debug\SecondApp.csproj.CoreCompileInputs.cache
+D:\khai\MobiDev\Apps\SecondApp\obj\Debug\SecondApp.exe
+D:\khai\MobiDev\Apps\SecondApp\obj\Debug\SecondApp.pdb

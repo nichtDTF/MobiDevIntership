@@ -1,0 +1,7 @@
+D:\khai\MobiDev\App1\FirstApp\obj\Debug\FirstApp.csprojAssemblyReference.cache
+D:\khai\MobiDev\App1\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+D:\khai\MobiDev\App1\FirstApp\bin\Debug\FirstApp.exe.config
+D:\khai\MobiDev\App1\FirstApp\bin\Debug\FirstApp.exe
+D:\khai\MobiDev\App1\FirstApp\bin\Debug\FirstApp.pdb
+D:\khai\MobiDev\App1\FirstApp\obj\Debug\FirstApp.exe
+D:\khai\MobiDev\App1\FirstApp\obj\Debug\FirstApp.pdb
