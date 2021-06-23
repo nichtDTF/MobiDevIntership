@@ -1,0 +1,14 @@
+D:\khai\MobiDev\Apps\ThirdApp\bin\Debug\ThirdApp.exe.config
+D:\khai\MobiDev\Apps\ThirdApp\bin\Debug\ThirdApp.exe
+D:\khai\MobiDev\Apps\ThirdApp\bin\Debug\ThirdApp.pdb
+D:\khai\MobiDev\Apps\ThirdApp\obj\Debug\ThirdApp.csprojAssemblyReference.cache
+D:\khai\MobiDev\Apps\ThirdApp\obj\Debug\ThirdApp.csproj.CoreCompileInputs.cache
+D:\khai\MobiDev\Apps\ThirdApp\obj\Debug\ThirdApp.exe
+D:\khai\MobiDev\Apps\ThirdApp\obj\Debug\ThirdApp.pdb
+D:\khai\MobiDev\Apps\ThirdApp_WorkIncorrect\bin\Debug\ThirdApp.exe.config
+D:\khai\MobiDev\Apps\ThirdApp_WorkIncorrect\bin\Debug\ThirdApp.exe
+D:\khai\MobiDev\Apps\ThirdApp_WorkIncorrect\bin\Debug\ThirdApp.pdb
+D:\khai\MobiDev\Apps\ThirdApp_WorkIncorrect\obj\Debug\ThirdApp.csprojAssemblyReference.cache
+D:\khai\MobiDev\Apps\ThirdApp_WorkIncorrect\obj\Debug\ThirdApp.csproj.CoreCompileInputs.cache
+D:\khai\MobiDev\Apps\ThirdApp_WorkIncorrect\obj\Debug\ThirdApp.exe
+D:\khai\MobiDev\Apps\ThirdApp_WorkIncorrect\obj\Debug\ThirdApp.pdb
